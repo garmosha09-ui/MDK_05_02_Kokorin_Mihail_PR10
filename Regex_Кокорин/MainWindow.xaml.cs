@@ -30,7 +30,7 @@ namespace Regex_Кокорин
 
         }
 
-        private void Update(object sender, RoutedEventArgs e)
+        private void Update(object sender, RoutedEventArgs e) 
         {
 
         }
