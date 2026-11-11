@@ -24,20 +24,5 @@ namespace Regex_Кокорин
         {
             InitializeComponent();
         }
-
-        private void Add(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Update(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Delete(object sender, RoutedEventArgs e)
-        {
-
-        }
     }
 }
